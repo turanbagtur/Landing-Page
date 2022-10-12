@@ -1,0 +1,107 @@
+/* Text */
+
+.text-center {
+  text-align: center;
+}
+
+.heading-small {
+  font-size: 1.25rem;
+}
+.heading-medium {
+  font-size: 1.5rem;
+}
+.heading-big {
+  font-size: 1.75rem;
+}
+
+/* Colors */
+
+.bg-dark-blue {
+  background: #062e51;
+}
+.bg-light-blue {
+  background: tomato;
+}
+.bg-light {
+  background: #fff;
+}
+
+/* Buttons */
+
+.btn {
+  margin-top: 1.25rem;
+  padding: 0.8rem 3rem;
+  border-radius: 7px;
+  letter-spacing: 0.5px;
+}
+.btn-primary {
+  background: #336ea2;
+}
+.btn-primary:hover {
+  color: tomato;
+  background: #fff;
+  border: 1px solid tomato;
+}
+.btn-dark {
+  background: #333;
+}
+.btn-dark:hover {
+  color: #333;
+  background: #fff;
+  border: 0.5px solid #333;
+}
+
+.btn-block {
+  width: 100%;
+  text-align: center;
+}
+
+.btn-block:hover{
+  color:#062e51;
+}
+/* Forms */
+
+.form-group {
+  padding: 0.25rem 0;
+}
+.form-group label {
+  display: block;
+  background: tomato;
+  width: 10%;
+  border-radius: 6px;
+  text-align: center;
+}
+.form-control {
+  width: 100%;
+  padding: 0.4rem;
+  font-size: 1rem;
+  resize: none;
+  border-radius: 5px;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.tomato-box {
+  background : tomato;
+  border-radius: 6px;
+  color: #fff;
+
+  
+}
+
+.tomato {
+  background: tomato;
+}
+
+.pozisyon {
+  padding: 0.5rem;
+  border-radius: 6px;
+}
+
+.kenarliklar {
+  border: 3px solid tomato;
+
+}
